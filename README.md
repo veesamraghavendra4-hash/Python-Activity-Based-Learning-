@@ -1,15 +1,13 @@
-# Python-Activity-Based-Learning-
 # Python Activity-Based Learning (ABL)
 
 ## About
-This repository contains 10 Python Activity-Based Learning case studies.
+This repository contains 10 Python programming case studies prepared for the ABL assignment.
 
-## Download All Case Studies
+## Download All 10 Case Studies
 
-[📥 Download All 10 Python ABL Case Studies (ZIP)](./Python_ABL_Assignments_10_PDFs.zip)
+[Download All 10 Python ABL PDFs (ZIP)](./Python_ABL_Assignments_10_PDFs%20%281%29.zip)
 
 ## Case Studies
-
 1. Multi-Stage Scholarship Shortlisting
 2. Student Record Consistency Checker
 3. Internship Candidate Ranking
