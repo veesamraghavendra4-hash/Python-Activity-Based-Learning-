@@ -5,24 +5,24 @@
 
 Welcome to my Python Activity Based Learning repository!
 
-This repository contains 10 Python case studies based on real-world applications. Each case study includes a problem statement, objective, Python program, sample output, and conclusion.
+This repository contains 10 individual Python case studies based on real-world problem-solving scenarios.
 
-## 📚 Case Studies
+## 📚 My 10 Python Case Studies
 
-| S.No | Case Study Name | PDF |
+| S.No | Case Study | View PDF |
 |---|---|---|
-| 01 | Multi-Stage Scholarship Shortlisting | [View PDF](case-study-01.pdf) |
-| 02 | Student Record Consistency Checker | [View PDF](case-study-02.pdf) |
-| 03 | Internship Candidate Ranking | [View PDF](case-study-03.pdf) |
-| 04 | Retail Inventory Transfer | [View PDF](case-study-04.pdf) |
-| 05 | Campus Energy and Water Audit | [View PDF](case-study-05.pdf) |
-| 06 | Disaster Relief Supply Allocation | [View PDF](case-study-06.pdf) |
-| 07 | Manufacturing Production Planner | [View PDF](case-study-07.pdf) |
-| 08 | University Academic Progression Audit | [View PDF](case-study-08.pdf) |
-| 09 | E-Commerce Order Processing | [View PDF](case-study-09.pdf) |
-| 10 | Campus Festival Financial Audit | [View PDF](case-study-10.pdf) |
+| 01 | Multi-Stage Scholarship Shortlisting | [View PDF](./01_multi_stage_scholarship_shortlisting.pdf) |
+| 02 | Integrated Student Record Consistency Checker | [View PDF](./02_integrated_student_record_consistency_checker.pdf) |
+| 03 | Multi-Criteria Internship Candidate Ranking | [View PDF](./03_multi_criteria_internship_candidate_ranking.pdf) |
+| 04 | Multi-Branch Retail Inventory Transfer | [View PDF](./04_multi_branch_retail_inventory_transfer.pdf) |
+| 05 | Integrated Campus Energy and Water Audit | [View PDF](./05_integrated_campus_energy_and_water_audit.pdf) |
+| 06 | Disaster Relief Supply Allocation | [View PDF](./06_disaster_relief_supply_allocation.pdf) |
+| 07 | Integrated Manufacturing Production Planner | [View PDF](./07_integrated_manufacturing_production_planner.pdf) |
+| 08 | University Academic Progression Audit | [View PDF](./08_university_academic_progression_audit.pdf) |
+| 09 | Integrated E-Commerce Order Processing and Reconciliation | [View PDF](./09_integrated_e_commerce_order_processing_and_reconciliation.pdf) |
+| 10 | Campus Festival Registration and Financial Audit | [View PDF](./10_campus_festival_registration_and_financial_audit.pdf) |
 
-## 💻 Concepts Used
+## 💻 Python Concepts Used
 
 - Variables and Data Types
 - Conditional Statements
@@ -30,16 +30,15 @@ This repository contains 10 Python case studies based on real-world applications
 - Lists and Tuples
 - Dictionaries
 - Functions
-- Sorting
 - Data Validation
-- Arithmetic Operations
+- Sorting and Calculations
 
-## 🎯 Project Objectives
+## 🎯 Learning Objectives
 
 - Develop Python programming skills.
-- Solve real-world problems.
+- Apply programming concepts to real-world problems.
+- Improve logical thinking and problem-solving abilities.
 - Understand practical applications of Python.
-- Improve logical thinking and problem-solving skills.
 
 ## 🛠️ Tools Used
 
@@ -47,7 +46,7 @@ This repository contains 10 Python case studies based on real-world applications
 - Visual Studio Code
 - GitHub
 
-## 👨‍🎓 Academic Details
+## 🎓 Academic Details
 
 **Course:** B.Tech First Year  
 **Subject:** Python Programming  
